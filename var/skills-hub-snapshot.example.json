@@ -1,0 +1,16 @@
+{
+  "fetchedAtMs": 1759800000000,
+  "trendingMints": [
+    {
+      "mint": "So11111111111111111111111111111111111111112",
+      "symbol": "EXAMPLE",
+      "narrativeHeat": 82,
+      "smartMoneyNetInflowSol": 145.7,
+      "source": "meme-rush"
+    }
+  ],
+  "denylistedCreators": [
+    "11111111111111111111111111111111"
+  ],
+  "hotTopics": ["ai-agents", "politifi"]
+}

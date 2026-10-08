@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.log
+var/*.jsonl
+var/skills-hub-snapshot.json
